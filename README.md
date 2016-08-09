@@ -1,3 +1,5 @@
+# GradientAnimate
+
 A simple project demonstrating animation of gradient layer.
 
 Here is the screenshot.
